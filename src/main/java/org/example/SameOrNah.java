@@ -16,6 +16,9 @@ public class SameOrNah {
         } else {
             System.out.println("The words are different");
         }
+<<<<<<< HEAD
         scanner.close();
+=======
+>>>>>>> origin/master
     }
 }

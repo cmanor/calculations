@@ -11,6 +11,9 @@ public class BoilingWater {
         {
             System.out.println("Water is boiling!");
         }
+<<<<<<< HEAD
         scanner.close();
+=======
+>>>>>>> origin/master
     }
 }
